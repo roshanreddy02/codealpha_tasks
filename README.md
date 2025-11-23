@@ -30,6 +30,10 @@ codealpha_tasks/
 │
 └── README.md   ← (this file / main description)
 
+- [Task 1 - Calculator](./Task1_Calculator/README.md)
+- [Task 2 - Portfolio Website](./Task2_Portfolio_Site/README.md)
+
+
 📌 How to Run Projects
 
 Open any task folder.
