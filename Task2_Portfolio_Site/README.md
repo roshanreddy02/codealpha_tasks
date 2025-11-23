@@ -50,6 +50,10 @@ This folder contains my **portfolio project** along with health-related demo pro
 - VS Code for development  
 
 ---
+## Live Demo
+
+[View Live Portfolio](https://codealphafrontend.netlify.app/)
+
 
 ## Future Improvements
 
