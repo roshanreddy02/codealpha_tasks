@@ -25,7 +25,8 @@ codealpha_tasks/
 ├── Task2_Portfolio_Site/
 │     ├── index.html
 │     ├── style.css
-│     ├── script.js (optional)
+│     ├── script.js
+│     ├── ...
 │     └── README.md
 │
 └── README.md   ← (this file / main description)
