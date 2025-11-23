@@ -66,3 +66,9 @@ This folder contains my **portfolio project** along with health-related demo pro
 Frontend Developer | Portfolio & Projects  
 
 ---
+
+## Screenshots / Demo
+
+![Food Order Project](foodorder.png)
+![Health Risk Project](healthrisk.jpg)
+
